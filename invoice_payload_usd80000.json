@@ -1,0 +1,13 @@
+{
+  "transactionIdentifier": "INV-TZGT-0001",
+  "amount": "80000.00",
+  "currencyCode": "840",
+  "recipientPrimaryAccountNumber": "4333676842695568",
+  "recipientName": "TGZT Welfare Foundation",
+  "senderName": "Lucas Araujo Santos",
+  "senderAccountNumber": "1010372198",
+  "transactionPurpose": "Project Funding - Full Tranche",
+  "countryCode": "784",
+  "merchantCategoryCode": "8398",
+  "messageId": "MOA-JUNE-2025-FULL"
+}
